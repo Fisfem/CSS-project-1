@@ -1,0 +1,17 @@
+.bodily
+{
+  background-color: #F5D04E;
+}
+
+.inner_move
+{
+  position: relative;
+  margin-left: 500px;
+  margin-top: 100px;
+  padding: 5px;
+  background-color: white; 
+  width: 380px;
+   border-radius: 50px; 
+   border-color: black right;
+   
+}
